@@ -1,2 +1,9 @@
 # SD1-Worksheet1
-Assignment1
+
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+
